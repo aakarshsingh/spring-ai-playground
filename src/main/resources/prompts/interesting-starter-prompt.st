@@ -1,0 +1,1 @@
+Tell me an interesting party conversation starter about {topic}, keep it under {number} words and at an understanding level which can be understood by {age} year olds.
